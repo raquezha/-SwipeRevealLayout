@@ -12,6 +12,7 @@ import com.chauthai.swipereveallayout.R
 /**
  * Created by raquezha on 5/17/23.
  */
+@Suppress("UNUSED_PARAMETER")
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

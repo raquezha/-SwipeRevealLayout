@@ -7,6 +7,7 @@ import com.chauthai.swipereveallayout.databinding.ActivityGridBinding
 /**
  * Created by raquezha on 5/17/23.
  */
+@Suppress("SameParameterValue")
 class GridActivity : AppCompatActivity() {
     private var adapter: GridAdapter? = null
     private val binding: ActivityGridBinding by lazy {

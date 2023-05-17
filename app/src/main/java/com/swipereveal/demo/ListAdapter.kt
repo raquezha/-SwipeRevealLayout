@@ -12,7 +12,6 @@ import android.widget.Toast
 import com.chauthai.swipereveallayout.R
 import com.chauthai.swipereveallayout.SwipeRevealLayout
 import com.chauthai.swipereveallayout.ViewBinderHelper
-import com.chauthai.swipereveallayout.databinding.GridItemBinding
 import com.chauthai.swipereveallayout.databinding.RowListBinding
 
 /**

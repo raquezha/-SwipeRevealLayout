@@ -9,7 +9,7 @@ This is a fork project from https://github.com/chthai64/SwipeRevealLayout
 ##### Drag mode
 
 Drag mode normal:   
-![Demo normal](https://raw.githubusercontent.com/raquezha/s/main/art/demo_normal.gif)
+![Demo normal](https://raw.githubusercontent.com/raquezha/SwipeRevealLayout/main/art/demo_normal.gif)
 
 Drag mode same_level:   
 ![Demo same](https://raw.githubusercontent.com/raquezha/SwipeRevealLayout/main/art/demo_same.gif)

@@ -8,6 +8,7 @@ import com.chauthai.swipereveallayout.databinding.ActivityRecyclerBinding
 /**
  * Created by raquezha on 5/17/23.
  */
+@Suppress("SameParameterValue")
 class RecyclerDemoActivity : AppCompatActivity() {
     private var adapter: RecyclerAdapter? = null
     private val binding: ActivityRecyclerBinding by lazy {
