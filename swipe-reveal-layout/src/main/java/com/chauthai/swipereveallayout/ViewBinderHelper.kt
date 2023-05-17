@@ -27,7 +27,6 @@ package com.chauthai.swipereveallayout
 
 import android.os.Bundle
 import com.chauthai.swipereveallayout.SwipeRevealLayout.DragStateChangeListener
-import java.util.Arrays
 import java.util.Collections
 
 /**

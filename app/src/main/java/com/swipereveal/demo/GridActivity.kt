@@ -1,10 +1,7 @@
 package com.swipereveal.demo
 
 import android.os.Bundle
-import android.view.View
-import android.widget.GridView
 import androidx.appcompat.app.AppCompatActivity
-import com.chauthai.swipereveallayout.R
 import com.chauthai.swipereveallayout.databinding.ActivityGridBinding
 
 /**

@@ -1,3 +1,5 @@
+@file:Suppress("SameParameterValue")
+
 package com.swipereveal.demo
 
 import android.os.Bundle
